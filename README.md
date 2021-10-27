@@ -1,2 +1,0 @@
-# HelloWorldNext
-HelloWorld com Next
